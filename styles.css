@@ -1,5 +1,9 @@
 body{
     background-color: chocolate;
+}
+p{
     font-size: 200px;
     font-family: Arial, Helvetica, sans-serif;
+    /* letter-spacing: 0px; */
+    color: rgb(31, 12, 3);
 }
